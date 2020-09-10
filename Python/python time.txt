@@ -1,0 +1,1 @@
+python -mtimeit -s'empty=()' '23 in empty'
